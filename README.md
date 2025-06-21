@@ -1,16 +1,54 @@
-## Hi there 👋
+👋 Hi there, I'm Boitumelo Rebecca Chauke
 
-<!--
-**Boitu-coder/Boitu-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate and creative tech enthusiast with a strong foundation in **User Interface (UI/UX) design**, **web development**, and **data analysis**. Currently building impactful projects that solve real-world problems with modern technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- **Languages:** HTML, CSS, JavaScript, Python, SQL
+- **Frameworks & Libraries:** React, Node.js, Express, Tailwind CSS, Bootstrap
+- **Tools:** Figma, Power BI, Git, GitHub, Postman
+- **Database:** MySQL, MongoDB, Firebase
+- **Platforms:** GitHub Pages, Netlify, Vercel, Render
+
+---
+
+## 🚀 Projects Worth Exploring
+
+### 🧠 AI Code Review Assistant
+An intelligent assistant that reviews your code and suggests improvements using GPT-4.
+[🔗 View Project Repo](https://github.com/boitumelo-chauke/ai-code-review-assistant)
+
+### 🎓 StudySync – UI/UX Mobile Prototype
+A Figma-based mobile app interface designed for students to manage schedules and tasks intuitively.
+[🔗 View Prototype](https://boitumelo-chauke.github.io/fullscreen.html)
+
+### 📊 Sales Data Analysis Dashboard
+Interactive Power BI dashboard highlighting KPIs and sales trends.
+[🔗 View Analysis (GitHub)](https://github.com/boitumelo-chauke/data-analysis-projects)
+
+---
+
+## 🌱 Currently Learning
+- Cloud Deployment (AWS & Azure)
+- Full-stack App Development with MongoDB
+- Real-time Web Apps using WebSockets
+
+---
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](www.linkedin.com/in/
+boitumelo-rebecca-chauke-968b83168
+)
+- 💌 Email: Boitumelo.chauke17@gmail.com
+- 🌐 [Personal Website](https://boitumelo-chauke.github.io/) *(coming soon)*
+
+---
+
+## ⚡ Fun Fact
+I combine creativity and analytical thinking to design apps that are not just functional, but *delightful* to use. Let’s build something great together!
+
+---
+
+> "Learning is endless, and building is the best way to grow."
