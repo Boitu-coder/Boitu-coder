@@ -22,7 +22,7 @@ An intelligent assistant that reviews your code and suggests improvements using 
 
 ### 🎓 EduRise: A Mobile-website Prototype to Support South African Learners – UI/UX Mobile Prototype
 A Proto.io-based mobile website interface design of EduRise embraces a mobile-first approach, with responsiveness at its core to ensure the website functions seamlessly across devices, especially smartphones commonly used by learners in rural and economically disadvantaged areas.
-[🔗 View Prototype](https://boitumelo-chauke.github.io/fullscreen.html)
+[🔗 View Prototype](https://github.com/Boitu-coder/Edurise-prototype)
 
 ### 📊  Energy Consumption Analysis (1990–2020) Dashboard
 This Power BI project explores global energy usage between 1990 and 2020.
