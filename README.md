@@ -26,7 +26,7 @@ A Proto.io-based mobile website interface design of EduRise embraces a mobile-fi
 
 ### 📊  Energy Consumption Analysis (1990–2020) Dashboard
 This Power BI project explores global energy usage between 1990 and 2020.
-[🔗 View Analysis (GitHub)](https://github.com/Boitu-coder/EnergyConsumption_Analysis)
+[🔗 View Analysis (GitHub)](https://github.com/Boitu-coder/energy-consumption-analysis)
 
 ---
 
